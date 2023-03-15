@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glow2590 aka Diaa
 - 👀 I’m interested in Web full-stack development
-- 🌱 I’m currently learning Vue JS
-- 💞️ I’m looking to collaborate on VueJS framework
+- 🌱 I’m currently learning Livewire.
+- 💞️ I’m looking to collaborate on Livewire framework
 - 📫 $howToReachMe === true  ? 'Diaanagib3@gmail.com' : ' '
 
 <!---
